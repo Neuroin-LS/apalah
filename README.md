@@ -5,4 +5,4 @@ p bang
 
 p wafi pleer
 
-push danen
+push wafii
