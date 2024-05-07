@@ -6,4 +6,8 @@ p bang
 p wafi pleer
 
 push wafii
-wawi
+wawiwawi
+push a
+push b
+push c
+push d
